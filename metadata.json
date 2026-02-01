@@ -1,0 +1,6 @@
+
+{
+  "name": "Art and Craft with Tanay",
+  "description": "Premium art education website for Art and Craft with Tanay featuring 3D interactions, AI mentoring, and modern aesthetics.",
+  "requestFramePermissions": ["camera"]
+}
